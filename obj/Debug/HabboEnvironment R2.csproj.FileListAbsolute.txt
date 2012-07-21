@@ -1,0 +1,5 @@
+c:\users\wichard\documents\visual studio 11\Projects\HabboEnvironment R2\HabboEnvironment R2\obj\Debug\HabboEnvironment R2.csprojResolveAssemblyReference.cache
+c:\users\wichard\documents\visual studio 11\Projects\HabboEnvironment R2\HabboEnvironment R2\bin\Debug\HabboEnvironment R2.dll
+c:\users\wichard\documents\visual studio 11\Projects\HabboEnvironment R2\HabboEnvironment R2\bin\Debug\HabboEnvironment R2.pdb
+c:\users\wichard\documents\visual studio 11\Projects\HabboEnvironment R2\HabboEnvironment R2\obj\Debug\HabboEnvironment R2.dll
+c:\users\wichard\documents\visual studio 11\Projects\HabboEnvironment R2\HabboEnvironment R2\obj\Debug\HabboEnvironment R2.pdb
